@@ -182,6 +182,10 @@ section {
   gap: 30px;
 }
 
+.sobre-mi__foto {
+  flex-shrink: 0;
+}
+
 .sobre-mi__foto img {
   width: 200px;
   height: 200px;
